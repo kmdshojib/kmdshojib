@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamruzaman Shojib</h1>
-<h3 align="center">Remote based Font-End/React/MERN Stack Developer</h3>
+<h3 align="center">Font-End/React/MERN Stack Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kmdshojib" alt="kmdshojib" /></a> </p>
 
