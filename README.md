@@ -65,11 +65,10 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmdshojib&show_icons=true&locale=en&layout=compact&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="kmdshojib" />
 </div>
 <br/>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="flex: 1; margin: 5px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=kmdshojib&show_icons=true&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="kmdshojib" style="border: 2px solid #333; border-radius: 5px; padding: 5px; width: 100%;" />
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; align-items: center;">
+  <div style="border: 2px solid #333; border-radius: 5px; padding: 5px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=kmdshojib&show_icons=true&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="kmdshojib" style="width: 100%;" />
   </div>
-  <div style="flex: 1; margin: 5px;">
-    <img src="https://streak-stats.demolab.com?user=kmdshojib&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak graph" style="border: 2px solid #333; border-radius: 5px; padding: 5px; width: 100%;" />
-  </div>
-</div>
+  <div style="border: 2px solid #333; border-radius: 5px; padding: 5px;">
+    <img src="https://streak-stats.demolab.com?user=k
