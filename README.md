@@ -34,8 +34,8 @@
 </div>
 <br/>
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kmdshojib&show_icons=true&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="kmdshojib" style="border: 2px solid #333; border-radius: 5px; padding: 5px;" />
-  <img align="right" src="https://streak-stats.demolab.com?user=kmdshojib&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" style="border: 2px solid #333; border-radius: 5px; padding: 5px;" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kmdshojib&show_icons=true&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="kmdshojib" style="border: 2px solid #333; border-radius: 5px; padding: 5px; width: 48%;" />
+  <img align="right" src="https://streak-stats.demolab.com?user=kmdshojib&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" style="border: 2px solid #333; border-radius: 5px; padding: 5px; width: 48%;" />
 </div>
 
 
