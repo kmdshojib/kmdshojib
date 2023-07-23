@@ -71,4 +71,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=kmdshojib&show_icons=true&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="kmdshojib" style="width: 100%;" />
   </div>
   <div style="border: 2px solid #333; border-radius: 5px; padding: 5px;">
-    <img src="https://streak-stats.demolab.com?user=k
+    <img src="https://streak-stats.demolab.com?user=kmdshojib&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak graph" style="width: 100%;" />
+  </div>
+</div>
