@@ -67,8 +67,8 @@
 <br/>
 
 <div style="display: flex; justify-content: space-between; align-items: center; border: 2px solid #333; border-radius: 5px; padding: 5px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=kmdshojib&show_icons=true&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="kmdshojib" style="flex: 1; margin-right: 10px; max-width: 48%;" />
-  <img src="https://streak-stats.demolab.com?user=kmdshojib&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak graph" style="flex: 1; margin-left: 10px; max-width: 48%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kmdshojib&show_icons=true&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="kmdshojib" style="flex: 1; margin-right: 10px; max-width: 45%;" />
+  <img src="https://streak-stats.demolab.com?user=kmdshojib&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak graph" style="flex: 1; margin-left: 10px; max-width: 45%;" />
 </div>
 
 
