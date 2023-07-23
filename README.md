@@ -6,13 +6,13 @@ User
 
 <p align="left"> <a href="https://twitter.com/kmdshojib" target="blank"><img src="https://img.shields.io/twitter/follow/kmdshojib?logo=twitter&style=for-the-badge" alt="kmdshojib" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://kmdshojib.github.io/portfolio/](https://kmdshojib.github.io/portfolio/)
+<!-- - 👨‍💻 All of my projects are available at [https://kmdshojib.github.io/portfolio/](https://kmdshojib.github.io/portfolio/) -->
 
-- 📝 I regularly write articles on [https://hashnode.com/@kmdshojib](https://hashnode.com/@kmdshojib)
+- 📝 I regularly write articles on [Hashnode](https://hashnode.com/@kmdshojib)
 
-- 📫 How to reach me **kmd.shojib123@gmail.com**
+- 📫 How to reach me [Email](kmd.shojib@gmail.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sT903SaCbbEIv0P3bxqsPmDenvInoPhD/view?usp=share_link](https://drive.google.com/file/d/1sT903SaCbbEIv0P3bxqsPmDenvInoPhD/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sT903SaCbbEIv0P3bxqsPmDenvInoPhD/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
