@@ -60,10 +60,6 @@
 </div>
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-<div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmdshojib&show_icons=true&locale=en&layout=compact&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="kmdshojib" />
 </div>
 <br/>
