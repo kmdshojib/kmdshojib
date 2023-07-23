@@ -10,7 +10,7 @@ User
 
 - 📝 I regularly write articles on [Hashnode](https://hashnode.com/@kmdshojib)
 
-- 📫 How to reach me [Email](kmd.shojib@gmail.com)
+- 📫 How to reach me **kmd.shojib@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sT903SaCbbEIv0P3bxqsPmDenvInoPhD/view?usp=share_link)
 
