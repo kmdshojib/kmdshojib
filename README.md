@@ -66,10 +66,16 @@
 </div>
 <br/>
 
-<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center; border: 2px solid #333; border-radius: 5px; padding: 5px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=kmdshojib&show_icons=true&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="kmdshojib" style="flex: 1; margin-right: 10px; max-width: 30%;" />
-  <img src="https://streak-stats.demolab.com?user=kmdshojib&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak graph" style="flex: 1; margin-left: 10px; max-width: 30%;" />
-</div>
+
+<p align="center">
+  <a href="https://github.com/kmdshojib">
+    <img src="https://github-readme-stats.vercel.app/api?username=kmdshojib&show_icons=true&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="GitHub Stats" width="400" />
+  </a>
+  <a href="https://github.com/kmdshojib">
+    <img src="https://streak-stats.demolab.com?user=kmdshojib&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="Streak Graph" width="400" />
+  </a>
+</p>
+
 
 
 
