@@ -18,7 +18,7 @@
   
 - 📫 How to reach me **kmd.shojib@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1q_hljFoCgs8V5D2gBarUD3x6Mcsz75yV/view?usp=sharing](https://drive.google.com/file/d/1zikmP8DzWDhbsTrnD5J6M8CrilXH63pe/view?usp=sharing))
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zikmP8DzWDhbsTrnD5J6M8CrilXH63pe/view)
 
 <h3 align="left">Connect with me:</h3>
 <br/>
