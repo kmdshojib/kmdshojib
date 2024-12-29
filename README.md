@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Kamruzaman Shojib</h1>
-<h3 align="center">Font-End/React/MERN Stack Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kmdshojib" alt="kmdshojib" /></a> </p> -->
 
@@ -14,9 +14,11 @@
 
 - 📝 I regularly write articles on [Hashnode](https://hashnode.com/@kmdshojib)
 
+-![image](https://github.com/user-attachments/assets/0571f8fb-0490-491e-ba04-19cf177cb0c8) I regularly solve problems on [Leetcode](https://leetcode.com/u/kmdshojib/)
+  
 - 📫 How to reach me **kmd.shojib@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1q_hljFoCgs8V5D2gBarUD3x6Mcsz75yV/view?usp=sharing)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1q_hljFoCgs8V5D2gBarUD3x6Mcsz75yV/view?usp=sharing](https://drive.google.com/file/d/1zikmP8DzWDhbsTrnD5J6M8CrilXH63pe/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <br/>
