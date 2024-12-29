@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [Hashnode](https://hashnode.com/@kmdshojib)
 
--![image](https://github.com/user-attachments/assets/0571f8fb-0490-491e-ba04-19cf177cb0c8) I regularly solve problems on [Leetcode](https://leetcode.com/u/kmdshojib/)
+- I regularly solve problems on [Leetcode](https://leetcode.com/u/kmdshojib/)
   
 - 📫 How to reach me **kmd.shojib@gmail.com**
 
