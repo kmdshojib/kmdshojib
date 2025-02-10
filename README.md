@@ -12,7 +12,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://kmdshojib.github.io/portfolio/](https://kmdshojib.github.io/portfolio/) -->
 
-- 📝 I regularly write articles on [Hashnode](https://hashnode.com/@kmdshojib)
+- 📝 I often write articles on [Hashnode](https://hashnode.com/@kmdshojib)
 
 - I regularly solve problems on [Leetcode](https://leetcode.com/u/kmdshojib/)
   
