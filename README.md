@@ -73,6 +73,7 @@
   <a href="https://github.com/kmdshojib">
     <img src="https://github-readme-stats.vercel.app/api?username=kmdshojib&show_icons=true&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="GitHub Stats" width="400" />
   </a>
+  <br/>
   <a href="https://github.com/kmdshojib">
     <img src="https://streak-stats.demolab.com?user=kmdshojib&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="Streak Graph" width="400" />
   </a>
