@@ -99,13 +99,16 @@ Online bus ticket booking platform.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=kmdshojib&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kmdshojib&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p> <br/>
+<table align="center">
+<tr>
+<td>
+<img src="https://github-readme-stats.shion.dev/api?username=kmdshojib&theme=dark&show_icons=true" />
+</td>
+<td>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kmdshojib&layout=compact&theme=dark" />
+</td>
+</tr>
+</table>
 
 ![](https://streak-stats.demolab.com/?user=kmdshojib&theme=dark&hide_border=false)<br/>
 
