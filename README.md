@@ -108,9 +108,13 @@ Online bus ticket booking platform.
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kmdshojib&layout=compact&theme=dark" />
 </td>
 </tr>
-</table>
 
-![](https://streak-stats.demolab.com/?user=kmdshojib&theme=dark&hide_border=false)<br/>
+<tr>
+<td colspan="2" align="center">
+<img src="https://streak-stats.demolab.com/?user=kmdshojib&theme=dark&hide_border=false" />
+</td>
+</tr>
+</table>
 
 ---
 
