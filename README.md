@@ -20,29 +20,9 @@ Currently, I'm working on production-grade React Native applications while conti
 
 ## 🛠 Tech Stack
 
-### Frontend
-
-
-
-
-\
-
-### Mobile
-
-\
-
-### Backend
-
-\
-
-### Database
-
-### Tools & DevOps
-
-
-
-\
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,react,nodejs,express,mongodb,tailwind,redux,githubactions,vercel" />
+</p>
 ---
 
 ## 💼 Professional Experience
