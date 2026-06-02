@@ -25,29 +25,46 @@ Currently, I'm working on production-grade React Native applications while conti
 
 ## 💼 Professional Experience
 
-### Front End Developer @ Techy's
+### Front End Developer | Techy's
 
 **Oct 2025 – Present**
 
-* Building production-ready React Native applications using Expo
-* Developed onboarding flows, e-commerce features, checkout systems, and order tracking
-* Implemented responsive UI from Figma designs using Tailwind CSS
+📱 **Project: Okra Mobile App**
 
-### Full Stack Developer @ Digital Gregg
+* Developed and optimized a cross-platform mobile application using React Native (Expo) and Tailwind CSS.
+* Built production-ready onboarding flows, store browsing, dynamic menus, cart management, checkout systems, order tracking, and user profile screens.
+* Translated Figma designs into responsive and scalable mobile interfaces.
+
+---
+
+### Full Stack Developer | Digital Gregg
 
 **Feb 2025 – Aug 2025**
 
-* Enhanced Bustang transit planning and ticketing platforms
-* Integrated APIs, checkout systems, and optimized Next.js applications
-* Maintained and customized WordPress solutions
+🚌 **Bustang Transit Ecosystem**
 
-### UI Developer Intern @ Translense
+* Enhanced the Next.js trip planner and ticketing platforms.
+* Integrated maps, schedules, payment workflows, and optimized server-side rendering.
+* Maintained custom WordPress implementations and platform improvements.
+
+🔗 **Trip Planner:** https://planner.ridebustang.com
+🔗 **Website:** https://ridebustang.com
+
+**Keep The Party Safe Campaign**
+
+* Refactored WordPress templates for accessibility, performance, and responsive mobile experiences.
+
+🔗 **Website:** https://keepthepartysafe.org
+
+---
+
+### UI Developer Intern | Translense Private Limited
 
 **Feb 2023 – May 2023**
 
-* Developed responsive React applications
-* Worked with Redux, Redux Saga, and GitHub workflows
-
+* Built responsive user interfaces using React, Redux, and Redux Saga.
+* Collaborated using GitHub workflows and version control best practices.
+  
 ---
 
 ## 🌟 Featured Projects
