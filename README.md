@@ -67,53 +67,6 @@ Currently, I'm working on production-grade React Native applications while conti
   
 ---
 
-## 🌟 Featured Projects
-
-### ✈️ Voyager
-
-A modern travel booking platform built with Next.js.
-
-**Features**
-
-* Authentication System
-* Tour Booking
-* Review & Rating System
-* Responsive UI
-
-**Tech:** Next.js, TypeScript, Redux, MongoDB, TailwindCSS, ShadCN
-
----
-
-### 🛒 Gadget Galaxy
-
-Full-stack e-commerce application.
-
-**Features**
-
-* Shopping Cart
-* Stripe Payment Integration
-* Product Search & Filtering
-* Admin Management
-
-**Tech:** React, Next.js, Node.js, Express.js, MongoDB, Stripe
-
----
-
-### 🚌 EasyBus
-
-Online bus ticket booking platform.
-
-**Features**
-
-* Seat Booking
-* Payment Gateway
-* JWT Authentication
-* Admin Dashboard
-
-**Tech:** React, Node.js, Express.js, MongoDB, Stripe
-
----
-
 ## 📊 GitHub Stats
 
 <table align="center">
