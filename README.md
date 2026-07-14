@@ -29,6 +29,11 @@ Currently, I'm working on production-grade React Native applications while conti
 
 **Oct 2025 – Present**
 
+📱 **Project: Swyft Courier Mobile Apps**
+* Developed two React Native/Expo courier applications:
+* Admin App: Manages orders, drivers, clients, live tracking, assignments, reports, and support.
+* Client App: Enables stores to create deliveries and drivers to accept orders, navigate routes, share live locations, and submit proof of delivery.
+
 📱 **Project: Okra Mobile App**
 
 * Developed and optimized a cross-platform mobile application using React Native (Expo) and Tailwind CSS.
