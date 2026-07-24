@@ -23,6 +23,41 @@ Currently, I'm working on production-grade React Native applications while conti
 
 ---
 
+## 🌟 Featured Project
+
+<div align="center">
+
+### 📚 EngBooks — English Learning & Competitive Exam Platform
+
+**A full-stack EdTech ecosystem that helps learners build English skills, practise topic-based questions, and prepare for competitive exams across web and mobile.**
+
+[![Live Website](https://img.shields.io/badge/Live_Website-Visit_EngBooks-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://engboi.com)
+[![Download Android App](https://img.shields.io/badge/Android-Download_App-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://engboi.com/download)
+
+</div>
+
+#### Project Overview
+
+Built a production-ready English learning and competitive exam platform with a **Next.js web app**, **React Native/Expo mobile app**, **Node.js API**, and **admin dashboard**.
+
+#### ✨ Key Features
+
+* 📝 Topic-based practice, previous questions, mock tests, scoring, and result history
+* ⚡ Real-time live exams and competitive leaderboards
+* 🧠 Vocabulary, idioms, spelling, proverbs, and memorization tools
+* 📖 Reading content, search, and progress tracking
+* 🔐 OTP, Google authentication
+* 🔔 Push notifications and premium payment workflows
+* 🛠️ Admin dashboard for users, questions, exams, content, and reports
+
+#### 💼 My Contribution
+
+Developed the web and mobile interfaces, REST APIs, real-time exam workflows, authentication, payments, notifications, progress tracking, and content-management tools.
+
+**Tech Stack:** Next.js, React Native, Expo, TypeScript, Node.js, Express.js, MongoDB, Zustand, Socket.IO, and Tailwind CSS.
+
+---
+
 ## 💼 Professional Experience
 
 ### Front End Developer | Techy's
